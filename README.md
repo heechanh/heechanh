@@ -14,31 +14,6 @@ I enjoy learning new technologies, developing projects, and improving my problem
 - 🌱 Continuously learning Python, software development, and AI technologies.
 - 🎯 Goal: Build useful, reliable, and user-friendly applications that solve real-world problems.
 
-## 🛠️ Technologies & Tools
-
-**Programming Languages**
-- Python
-- C#
-- JavaScript / TypeScript
-
-**AI & Machine Learning**
-- RAG (Retrieval-Augmented Generation)
-- Large Language Models (LLMs)
-- Computer Vision
-- CLIP, FAISS, and multimodal search
-
-**Web Development**
-- ASP.NET Core MVC
-- React
-- HTML / CSS
-
-**Tools & Platforms**
-- Git & GitHub
-- Google Colab
-- Visual Studio / VS Code
-- SQL Server
-- Docker
-
 ## 📌 Featured Projects
 
 ### 🤖 AI Learning Assistant
@@ -61,13 +36,6 @@ A Chrome extension that explores AI-assisted shopping experiences.
 - Built with React, TypeScript, and Vite.
 - Integrates the Gemini API.
 - Uses Chrome storage and automated tests.
-
-### 🏡 Real Estate Listing Website
-A real estate web application for publishing and managing property listings.
-
-- Built with ASP.NET Core MVC and SQL Server.
-- Supports property listing submission and administration.
-- Includes an approval workflow for published listings.
 
 ## 📊 GitHub Activity
 
