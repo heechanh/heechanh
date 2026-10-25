@@ -45,4 +45,4 @@ Check out my repositories to explore my projects, experiments, and learning jour
 
 I'm always interested in learning, collaborating on projects, and exploring new ideas in software development and AI.
 
-- GitHub: [Your GitHub Profile URL](https://github.com/heechanh/heechanh)
+- GitHub: [Your GitHub Profile URL](https://github.com/heechanh)
